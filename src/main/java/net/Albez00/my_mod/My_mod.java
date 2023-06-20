@@ -22,7 +22,6 @@ public class My_mod
 
     public My_mod()
     {
-        // e
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         modEventBus.addListener(this::commonSetup);
