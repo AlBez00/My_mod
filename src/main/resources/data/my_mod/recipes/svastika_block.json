@@ -1,0 +1,16 @@
+{
+  "type": "minecraft/crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "my_mod:svastika"
+    }
+  },
+  "result": {
+    "item": "my_mod:svastika_block"
+  }
+}

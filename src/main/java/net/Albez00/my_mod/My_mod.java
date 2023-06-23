@@ -1,6 +1,7 @@
 package net.Albez00.my_mod;
 
 import com.mojang.logging.LogUtils;
+import net.Albez00.my_mod.block.ModBlocks;
 import net.Albez00.my_mod.item.ModItems;
 import net.minecraft.world.level.block.Blocks;
 import net.minecraftforge.api.distmarker.Dist;
@@ -26,6 +27,7 @@ public class My_mod
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 

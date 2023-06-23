@@ -1,5 +1,10 @@
 {
   "item.my_mod.svastika": "Свастика",
   "item.my_mod.akitsavs": "акитсавС",
+
+  "block.my_mod.svastika_block": "Блок свастики",
+  "block.my_mod.svastika_ore": "Свастиковая руда",
+  "block.my_mod.deepslate_svastika_ore": "Глубинная свастиковая руда",
+
   "itemGroup.my_mod_tab": "Я в твоем доме"
 }

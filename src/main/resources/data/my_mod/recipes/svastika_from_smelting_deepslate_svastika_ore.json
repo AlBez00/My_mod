@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "group": "svastika",
+  "ingredient": {
+    "item": "minecraft:deepslate_svastika_ore"
+  },
+  "result": "minecraft:svastika"
+}

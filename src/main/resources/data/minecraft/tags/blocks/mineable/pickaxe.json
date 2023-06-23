@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "my_mod:svastika_block",
+    "my_mod:svastika_ore",
+    "my_mod:deepslate_svastika_ore"
+  ]
+}
