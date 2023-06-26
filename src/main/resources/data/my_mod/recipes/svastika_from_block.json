@@ -1,5 +1,5 @@
 {
-  "type": "minecraft/crafting_shapeless",
+  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "my_mod:svastika_block"

@@ -4,7 +4,7 @@
   "experience": 1.0,
   "group": "svastika",
   "ingredient": {
-    "item": "minecraft:svastika_ore"
+    "item": "my_mod:svastika_ore"
   },
-  "result": "minecraft:svastika"
+  "result": "my_mod:svastika"
 }
